@@ -2,44 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89114d25-61f5-4a7e-9862-5ff5d5f12616" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/everyday.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/damo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/shopping/WallMarket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/Diamond.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/DrawImage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/SpecialParallelogram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/jingling/JingLing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/jingling/Move.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/jingling/Sing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shape/Cube.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shape/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shape/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shape/ShapeTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shape/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shopping/GoingShopping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shopping/Market.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shopping/TaobaoMarket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work2/Tomato.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work3/Lotto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/damo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/SpecialParallelogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/jingling/JingLing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/shape/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/shape/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/shape/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/shopping/Market.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/shopping/TaobaoMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work2/Tomato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work3/Lotto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/shopping/WallMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fxstudy/work4/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/everyday/fxstudy/shopping/WallMarket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shopping/GoingShopping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shopping/GoingShopping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,18 +26,68 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
+          <entry key="java" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="920" />
+          <entry key="txt" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="920" />
+          <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fxstudy/work4/Point.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-252">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shopping/WallMarket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +97,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/fxstudy/work1/shape/ShapeTest.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/shopping/WallMarket.java" />
+        <option value="$PROJECT_DIR$/src/fxstudy/work1/shopping/WallMarket.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java" />
+        <option value="$PROJECT_DIR$/src/fxstudy/work4/Point.java" />
       </list>
     </option>
   </component>
@@ -99,10 +119,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="556" />
-    <option name="y" value="13" />
-    <option name="width" value="1326" />
-    <option name="height" value="1106" />
+    <option name="x" value="-263" />
+    <option name="y" value="70" />
+    <option name="width" value="1164" />
+    <option name="height" value="764" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -135,7 +155,7 @@
               <item name="everyday" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
-              <item name="work1" type="462c0819:PsiDirectoryNode" />
+              <item name="work4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,12 +168,15 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552453506939" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552459368550" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fxstudy.work1.shopping" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JavaStudy\everyday\src" />
     </key>
@@ -170,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JingLing">
+  <component name="RunManager" selected="Application.Point">
     <configuration name="GoingShopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fxstudy.work1.shopping.GoingShopping" />
       <module name="everyday" />
@@ -190,6 +213,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="fxstudy.work1.jingling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fxstudy.work4.Point" />
+      <module name="everyday" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fxstudy.work4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,33 +259,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tomato" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fxstudy.work2.Tomato" />
-      <module name="everyday" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fxstudy.work2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Tomato" />
       <item itemvalue="Application.SpecialParallelogram" />
       <item itemvalue="Application.GoingShopping" />
       <item itemvalue="Application.ShapeTest" />
       <item itemvalue="Application.JingLing" />
+      <item itemvalue="Application.Point" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point" />
         <item itemvalue="Application.JingLing" />
         <item itemvalue="Application.ShapeTest" />
         <item itemvalue="Application.GoingShopping" />
         <item itemvalue="Application.SpecialParallelogram" />
-        <item itemvalue="Application.Tomato" />
       </list>
     </recent_temporary>
   </component>
@@ -263,31 +286,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552452597179</updated>
-      <workItem from="1552452601474" duration="895000" />
+      <workItem from="1552452601474" duration="6644000" />
     </task>
+    <task id="LOCAL-00001" summary="something">
+      <created>1552453571134</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552453571134</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="895000" />
+    <option name="totallyTimeSpent" value="6644000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="7" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497979" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14227971" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3298791" />
+      <window_info anchor="bottom" id="Messages" weight="0.33044982" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33044982" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33044982" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298791" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28103447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -308,6 +339,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="something" />
+    <option name="LAST_COMMIT_MESSAGE" value="something" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shape/Rectangle.java">
@@ -346,13 +381,6 @@
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shape/Triangle.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fxstudy/shopping/WallMarket.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -382,6 +410,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shopping/WallMarket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work4/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,7 +1,5 @@
 package fxstudy.work1.shopping;
 
-import fxstudy.shopping.WallMarket;
-
 /**
  * 定义GongingShopping类
  * @author yuefan
