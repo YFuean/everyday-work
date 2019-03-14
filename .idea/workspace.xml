@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89114d25-61f5-4a7e-9862-5ff5d5f12616" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work1/shopping/WallMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work4/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/everyday/fxstudy/shopping/WallMarket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shopping/GoingShopping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/everyday/fxstudy/work1/shopping/GoingShopping.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxstudy/work5/DateFormatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxstudy/work5/DateFormatTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,41 +16,55 @@
     <session id="-1004320759">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="920" />
-          <entry key="txt" value="9" />
+          <entry key="java" value="1311" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="920" />
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="JAVA" value="1311" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fxstudy/work4/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="304">
+              <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fxstudy/work5/DateFormatTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -65,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-252">
+            <state relative-caret-position="30">
               <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
@@ -100,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/fxstudy/work1/shopping/WallMarket.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work4/Point.java" />
+        <option value="$PROJECT_DIR$/src/fxstudy/work5/DateFormatTest.java" />
       </list>
     </option>
   </component>
@@ -119,10 +130,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-263" />
-    <option name="y" value="70" />
+    <option name="x" value="-264" />
+    <option name="y" value="69" />
     <option name="width" value="1164" />
-    <option name="height" value="764" />
+    <option name="height" value="765" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -132,6 +143,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,20 +168,18 @@
               <item name="everyday" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
-              <item name="work4" type="462c0819:PsiDirectoryNode" />
+              <item name="work5" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552459368550" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552529428123" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -193,7 +204,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Point">
+  <component name="RunManager" selected="Application.DateFormatTest">
+    <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fxstudy.work5.DateFormatTest" />
+      <module name="everyday" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fxstudy.work5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GoingShopping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fxstudy.work1.shopping.GoingShopping" />
       <module name="everyday" />
@@ -246,33 +270,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialParallelogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fxstudy.work1.SpecialParallelogram" />
-      <module name="everyday" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fxstudy.work1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.SpecialParallelogram" />
       <item itemvalue="Application.GoingShopping" />
       <item itemvalue="Application.ShapeTest" />
       <item itemvalue="Application.JingLing" />
       <item itemvalue="Application.Point" />
+      <item itemvalue="Application.DateFormatTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateFormatTest" />
         <item itemvalue="Application.Point" />
         <item itemvalue="Application.JingLing" />
         <item itemvalue="Application.ShapeTest" />
         <item itemvalue="Application.GoingShopping" />
-        <item itemvalue="Application.SpecialParallelogram" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +297,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552452597179</updated>
-      <workItem from="1552452601474" duration="6644000" />
+      <workItem from="1552452601474" duration="6708000" />
+      <workItem from="1552527662317" duration="1604000" />
     </task>
     <task id="LOCAL-00001" summary="something">
       <created>1552453571134</created>
@@ -295,43 +307,51 @@
       <option name="project" value="LOCAL" />
       <updated>1552453571134</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="随机点距离">
+      <created>1552459393012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552459393012</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6644000" />
+    <option name="totallyTimeSpent" value="8312000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14227971" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14470494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.33044982" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.33044982" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28103447" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5605536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33044982" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.33044982" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,7 +362,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="something" />
-    <option name="LAST_COMMIT_MESSAGE" value="something" />
+    <MESSAGE value="随机点距离" />
+    <option name="LAST_COMMIT_MESSAGE" value="随机点距离" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shape/Rectangle.java">
@@ -362,14 +383,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shopping/TaobaoMarket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/SpecialParallelogram.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -381,17 +395,7 @@
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shape/Triangle.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/shopping/WallMarket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="e#198#199#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/shopping/WallMarket.java" />
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work3/Lotto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -413,9 +417,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work4/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shopping/GoingShopping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-252">
+        <state relative-caret-position="30">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
@@ -427,10 +441,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work4/Point.java">
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work5/DateFormatTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="232">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
