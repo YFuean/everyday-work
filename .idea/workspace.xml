@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="89114d25-61f5-4a7e-9862-5ff5d5f12616" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +22,9 @@
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -32,7 +34,8 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="22" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -43,7 +46,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2093" />
+          <entry key="JAVA" value="2128" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -51,11 +54,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fxstudy/work7/StringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1860">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state>
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-117">
+              <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_ef1ozt61pplm22/Files/DateDifferentExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -83,6 +107,7 @@
         <option value="$PROJECT_DIR$/src/fxstudy/work5/DateFormatTest.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work6/Date.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work7/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java" />
       </list>
     </option>
   </component>
@@ -136,14 +161,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552862550710" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552862855650" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -168,7 +193,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringTest">
+  <component name="RunManager" selected="Application.DateDifferentExam">
     <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fxstudy.work6.Date" />
       <module name="everyday" />
@@ -182,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fxstudy.work5.DateFormatTest" />
+    <configuration name="DateDifferentExam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fxstudy.work8.DateDifferentExam" />
       <module name="everyday" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fxstudy.work5.*" />
+          <option name="PATTERN" value="fxstudy.work8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JingLing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fxstudy.work1.jingling.JingLing" />
+    <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fxstudy.work5.DateFormatTest" />
       <module name="everyday" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fxstudy.work1.jingling.*" />
+          <option name="PATTERN" value="fxstudy.work5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,19 +260,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.JingLing" />
       <item itemvalue="Application.Point" />
       <item itemvalue="Application.DateFormatTest" />
       <item itemvalue="Application.Date" />
       <item itemvalue="Application.StringTest" />
+      <item itemvalue="Application.DateDifferentExam" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DateDifferentExam" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.Date" />
         <item itemvalue="Application.DateFormatTest" />
         <item itemvalue="Application.Point" />
-        <item itemvalue="Application.JingLing" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +292,7 @@
       <workItem from="1552615982359" duration="3792000" />
       <workItem from="1552688280807" duration="2337000" />
       <workItem from="1552690891428" duration="105000" />
+      <workItem from="1552862451683" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="something">
       <created>1552453571134</created>
@@ -303,16 +329,23 @@
       <option name="project" value="LOCAL" />
       <updated>1552690620907</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="计算两个时刻之间的差值">
+      <created>1552862677934</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552862677934</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14892000" />
+    <option name="totallyTimeSpent" value="15388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14308812" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14551334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -354,7 +387,8 @@
     <MESSAGE value="对系统当前日期、时间的格式化" />
     <MESSAGE value="JDK8的日期时间处理" />
     <MESSAGE value="String、StringBuffer、StringBuilder的比较" />
-    <option name="LAST_COMMIT_MESSAGE" value="String、StringBuffer、StringBuilder的比较" />
+    <MESSAGE value="计算两个时刻之间的差值" />
+    <option name="LAST_COMMIT_MESSAGE" value="计算两个时刻之间的差值" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shape/Rectangle.java">
@@ -412,9 +446,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
           <caret line="53" column="14" selection-start-line="53" selection-start-column="14" selection-end-line="53" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -422,9 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -432,9 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3330">
           <caret line="117" selection-start-line="117" selection-end-line="117" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -454,8 +479,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work7/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1860">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state>
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_ef1ozt61pplm22/Files/DateDifferentExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_ef1ozt61pplm22/Files/tmp_b6e869cda1555a411bad2b2b9c8ba797b1015ead11645915">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-117">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

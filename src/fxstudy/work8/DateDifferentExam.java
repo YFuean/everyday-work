@@ -14,7 +14,7 @@ public class DateDifferentExam {
     public static void main (String[] args) {
         //分别定义起止时间
         String startTime = "2019-03-18 06:31:58";
-        String stopTime = "2019-03-18 07:43:48";
+        String stopTime = "2019-03-18 15:43:48";
         SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         Date d1;
         Date d2;
