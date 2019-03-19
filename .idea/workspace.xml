@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89114d25-61f5-4a7e-9862-5ff5d5f12616" name="Default Changelist" comment="计算两个时刻之间的差值">
+    <list default="true" id="89114d25-61f5-4a7e-9862-5ff5d5f12616" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/fxstudy/work9/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,16 +16,18 @@
     <session id="-1004320759">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="14" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,7 +37,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="23" />
+          <entry key="JAVA" value="24" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -47,7 +49,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2629" />
+          <entry key="JAVA" value="3034" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -56,21 +58,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fxstudy/work7/StringTest.java">
+        <entry file="file://$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="600">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java">
+        <entry file="file://$PROJECT_DIR$/src/fxstudy/work9/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+            <state relative-caret-position="468">
+              <caret line="63" column="59" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fxstudy/work6/Date.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="132" column="9" lean-forward="true" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+            <state relative-caret-position="3780">
+              <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -109,6 +116,7 @@
         <option value="$PROJECT_DIR$/src/fxstudy/work7/StringTest.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work6/Date.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java" />
+        <option value="$PROJECT_DIR$/src/fxstudy/work9/Book.java" />
       </list>
     </option>
   </component>
@@ -128,8 +136,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="849" />
-    <option name="width" value="1071" />
+    <option name="x" value="-378" />
+    <option name="width" value="1191" />
     <option name="height" value="1092" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -140,8 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,25 +171,20 @@
               <item name="everyday" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
-              <item name="work6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="everyday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="everyday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
               <item name="work8" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552871151988" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552958729284" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -208,7 +209,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DateDifferentExam">
+  <component name="RunManager" selected="Application.Book">
+    <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fxstudy.work9.Book" />
+      <module name="everyday" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fxstudy.work9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fxstudy.work6.Date" />
       <module name="everyday" />
@@ -248,19 +262,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fxstudy.work4.Point" />
-      <module name="everyday" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fxstudy.work4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fxstudy.work7.StringTest" />
       <module name="everyday" />
@@ -275,19 +276,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Point" />
       <item itemvalue="Application.DateFormatTest" />
       <item itemvalue="Application.Date" />
       <item itemvalue="Application.StringTest" />
       <item itemvalue="Application.DateDifferentExam" />
+      <item itemvalue="Application.Book" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Book" />
         <item itemvalue="Application.DateDifferentExam" />
         <item itemvalue="Application.Date" />
         <item itemvalue="Application.StringTest" />
         <item itemvalue="Application.DateFormatTest" />
-        <item itemvalue="Application.Point" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +310,13 @@
       <workItem from="1552690891428" duration="105000" />
       <workItem from="1552862451683" duration="593000" />
       <workItem from="1552863170784" duration="75000" />
-      <workItem from="1552864888478" duration="3686000" />
+      <workItem from="1552864888478" duration="3739000" />
+      <workItem from="1552893937818" duration="1196000" />
+      <workItem from="1552899416468" duration="264000" />
+      <workItem from="1552907936329" duration="2337000" />
+      <workItem from="1552915427686" duration="1192000" />
+      <workItem from="1552947568013" duration="547000" />
+      <workItem from="1552952377797" duration="1430000" />
     </task>
     <task id="LOCAL-00001" summary="something">
       <created>1552453571134</created>
@@ -360,16 +367,23 @@
       <option name="project" value="LOCAL" />
       <updated>1552862961082</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="计算两个时刻之间的差值">
+      <created>1552871174163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1552871174163</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19246000" />
+    <option name="totallyTimeSpent" value="26265000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15036379" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15440582" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,7 +392,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47923875" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6695502" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -494,18 +508,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_ef1ozt61pplm22/Files/tmp_b6e869cda1555a411bad2b2b9c8ba797b1015ead11645915">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_ef1ozt61pplm22/Files/DateDifferentExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_ef1ozt61pplm22/Files/tmp_b6e869cda1555a411bad2b2b9c8ba797b1015ead11645915" />
+    <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_ef1ozt61pplm22/Files/DateDifferentExample.java" />
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work7/StringTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -513,19 +517,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work6/Date.java">
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="132" column="9" lean-forward="true" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        <state relative-caret-position="600">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java">
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work6/Date.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        <state relative-caret-position="3780">
+          <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work9/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="63" column="59" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
           </folding>
         </state>
       </provider>
