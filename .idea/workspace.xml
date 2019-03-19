@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89114d25-61f5-4a7e-9862-5ff5d5f12616" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work9/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fxstudy/work10/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,8 +16,8 @@
     <session id="-1004320759">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.1" value="4" />
+          <entry key="project.closed" value="15" />
+          <entry key="project.open.time.1" value="5" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
@@ -27,7 +27,7 @@
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -37,7 +37,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="24" />
+          <entry key="JAVA" value="25" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -49,7 +49,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3034" />
+          <entry key="JAVA" value="3563" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -69,15 +69,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fxstudy/work9/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="63" column="59" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
+            <state relative-caret-position="180">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#762#763#0" expanded="true" />
-                <element signature="e#818#819#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#694#695#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fxstudy/work10/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="39" column="68" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#500#501#0" expanded="true" />
+                <element signature="e#560#561#0" expanded="true" />
+                <element signature="e#607#608#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/fxstudy/work6/Date.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work9/Book.java" />
+        <option value="$PROJECT_DIR$/src/fxstudy/work10/Player.java" />
       </list>
     </option>
   </component>
@@ -166,25 +187,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="everyday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="everyday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
-              <item name="work8" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552958729284" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553037085444" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -209,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Book">
+  <component name="RunManager" selected="Application.Player">
     <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fxstudy.work9.Book" />
       <module name="everyday" />
@@ -249,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fxstudy.work5.DateFormatTest" />
+    <configuration name="Player" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fxstudy.work10.Player" />
       <module name="everyday" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fxstudy.work5.*" />
+          <option name="PATTERN" value="fxstudy.work10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DateFormatTest" />
       <item itemvalue="Application.Date" />
       <item itemvalue="Application.StringTest" />
       <item itemvalue="Application.DateDifferentExam" />
       <item itemvalue="Application.Book" />
+      <item itemvalue="Application.Player" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Player" />
         <item itemvalue="Application.Book" />
         <item itemvalue="Application.DateDifferentExam" />
         <item itemvalue="Application.Date" />
         <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.DateFormatTest" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +330,8 @@
       <workItem from="1552907936329" duration="2337000" />
       <workItem from="1552915427686" duration="1192000" />
       <workItem from="1552947568013" duration="547000" />
-      <workItem from="1552952377797" duration="1430000" />
+      <workItem from="1552952377797" duration="1540000" />
+      <workItem from="1553034978688" duration="1888000" />
     </task>
     <task id="LOCAL-00001" summary="something">
       <created>1552453571134</created>
@@ -374,16 +389,24 @@
       <option name="project" value="LOCAL" />
       <updated>1552871174163</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="List基础用法复习">
+      <created>1552958846640</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552958846640</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26265000" />
+    <option name="totallyTimeSpent" value="28263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15440582" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15683104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -391,7 +414,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32871974" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.6695502" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -426,7 +449,8 @@
     <MESSAGE value="JDK8的日期时间处理" />
     <MESSAGE value="String、StringBuffer、StringBuilder的比较" />
     <MESSAGE value="计算两个时刻之间的差值" />
-    <option name="LAST_COMMIT_MESSAGE" value="计算两个时刻之间的差值" />
+    <MESSAGE value="List基础用法复习" />
+    <option name="LAST_COMMIT_MESSAGE" value="List基础用法复习" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shape/Rectangle.java">
@@ -536,12 +560,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work9/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="63" column="59" selection-start-line="63" selection-start-column="59" selection-end-line="63" selection-end-column="59" />
+        <state relative-caret-position="180">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work10/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="39" column="68" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+            <element signature="e#607#608#0" expanded="true" />
           </folding>
         </state>
       </provider>
