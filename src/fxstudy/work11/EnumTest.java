@@ -1,4 +1,5 @@
 package fxstudy.work11;
+import java.util.Scanner;
 
 /**
  * 枚举类型实例
@@ -41,8 +42,10 @@ enum Week{
 public class EnumTest{
     public static void main(String[] args) {
         //访问某个枚举值
-        System.out.println("访问某个枚举值");
-        Week week = Week.getResult("sun");
+        System.out.print("输入要查询的英文单词小写字母：");
+        Scanner scanner = new Scanner(System.in);
+        Week week = Week.getResult((scanner.next()));
+
         System.out.println(week + "——" + week.getWeekName());
         //遍历枚举
         System.out.println("遍历枚举");
