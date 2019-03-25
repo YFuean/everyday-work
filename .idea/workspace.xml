@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89114d25-61f5-4a7e-9862-5ff5d5f12616" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutPosition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fxstudy/work6/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fxstudy/work6/Date.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +16,11 @@
     <session id="-1004320759">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
-          <entry key="project.open.time.1" value="7" />
+          <entry key="project.closed" value="28" />
+          <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="2" />
@@ -33,7 +32,7 @@
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -43,7 +42,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="37" />
+          <entry key="JAVA" value="40" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -55,7 +54,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5483" />
+          <entry key="JAVA" value="5485" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -63,30 +62,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutPosition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#756#757#0" expanded="true" />
-                <element signature="e#778#779#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutExam.java">
+        <entry file="file://$PROJECT_DIR$/src/fxstudy/work6/Date.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="570">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#754#755#0" expanded="true" />
-                <element signature="e#789#790#0" expanded="true" />
-              </folding>
+              <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -113,7 +93,6 @@
         <option value="$PROJECT_DIR$/src/fxstudy/work4/Point.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work5/DateFormatTest.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work7/StringTest.java" />
-        <option value="$PROJECT_DIR$/src/fxstudy/work6/Date.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work9/Book.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work10/Player.java" />
@@ -125,6 +104,7 @@
         <option value="$PROJECT_DIR$/src/fxstudy/work12/CalendarTest.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutPosition.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutExam.java" />
+        <option value="$PROJECT_DIR$/src/fxstudy/work6/Date.java" />
       </list>
     </option>
   </component>
@@ -174,6 +154,34 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="everyday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="everyday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="work5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="everyday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="everyday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="work6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="everyday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="everyday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="work7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="everyday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="everyday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="work12" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -185,7 +193,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553475569629" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553526844816" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -210,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlowLayoutExam">
+  <component name="RunManager" selected="Application.Date">
     <configuration name="Book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fxstudy.work9.Book" />
       <module name="everyday" />
@@ -224,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fxstudy.work12.CalendarTest" />
+    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fxstudy.work6.Date" />
       <module name="everyday" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fxstudy.work12.*" />
+          <option name="PATTERN" value="fxstudy.work6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,18 +286,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Player" />
-      <item itemvalue="Application.CalendarTest" />
       <item itemvalue="Application.Book" />
       <item itemvalue="Application.FlowLayoutPosition" />
       <item itemvalue="Application.FlowLayoutExam" />
+      <item itemvalue="Application.Date" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Date" />
         <item itemvalue="Application.FlowLayoutExam" />
         <item itemvalue="Application.FlowLayoutPosition" />
         <item itemvalue="Application.Book" />
         <item itemvalue="Application.Player" />
-        <item itemvalue="Application.CalendarTest" />
       </list>
     </recent_temporary>
   </component>
@@ -329,7 +337,9 @@
       <workItem from="1553206546624" duration="1385000" />
       <workItem from="1553232498751" duration="1197000" />
       <workItem from="1553263629218" duration="2780000" />
-      <workItem from="1553473996767" duration="1539000" />
+      <workItem from="1553473996767" duration="1896000" />
+      <workItem from="1553498821289" duration="620000" />
+      <workItem from="1553525436883" duration="1374000" />
     </task>
     <task id="LOCAL-00001" summary="something">
       <created>1552453571134</created>
@@ -422,17 +432,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553207538919</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="设置窗体布局管理器FlowLayout布局管理器">
+      <created>1553475636645</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1553475636646</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43450000" />
+    <option name="totallyTimeSpent" value="45801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19805983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15278901" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -441,7 +458,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32871974" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6020761" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39619377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -479,7 +496,8 @@
     <MESSAGE value="定义运动员类，实现比较器接口，按照跑步成绩降序" />
     <MESSAGE value="枚举类型实例" />
     <MESSAGE value="Calendar类基础代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calendar类基础代码" />
+    <MESSAGE value="设置窗体布局管理器FlowLayout布局管理器" />
+    <option name="LAST_COMMIT_MESSAGE" value="设置窗体布局管理器FlowLayout布局管理器" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shape/Rectangle.java">
@@ -570,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work6/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3780">
-          <caret line="132" column="9" selection-start-line="132" selection-start-column="9" selection-end-line="132" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Documents/WeChat Files/wxid_ef1ozt61pplm22/Files/BookCollectionTest.java" />
     <entry file="file://$PROJECT_DIR$/src/fxstudy/week2/fix.java" />
     <entry file="file://$PROJECT_DIR$/src/fxstudy/week2/Fruit.java" />
@@ -586,16 +597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-210">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work12/CalendarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -620,27 +621,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work12/CalendarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        <state relative-caret-position="30">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#756#757#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#796#797#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutExam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="468">
           <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work6/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
         </state>
       </provider>
     </entry>
