@@ -6,7 +6,7 @@ import java.awt.*;
 /**
  * BorderLayoutPosition类,基础
  * @author yuefan
- *
+ *2019.3.36
  */
 public class BorderLayoutPosition extends JFrame {
     public BorderLayoutPosition(){
