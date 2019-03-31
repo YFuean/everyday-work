@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89114d25-61f5-4a7e-9862-5ff5d5f12616" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fxstudy/work17/BoxLayoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fxstudy/work18/FolderTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,12 +16,12 @@
     <session id="-1004320759">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
+          <entry key="project.closed" value="37" />
           <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.14" value="3" />
-          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.14" value="4" />
+          <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="2" />
           <entry key="project.open.time.17" value="3" />
           <entry key="project.open.time.18" value="1" />
@@ -29,12 +29,13 @@
           <entry key="project.open.time.20" value="3" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="2" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,7 +45,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="50" />
+          <entry key="JAVA" value="58" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -56,7 +57,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9462" />
+          <entry key="JAVA" value="9828" />
           <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
@@ -65,22 +66,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fxstudy/work15/GridLayoutTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/fxstudy/work16/LoginFrame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <state relative-caret-position="78">
+              <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,12 +78,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fxstudy/work17/BoxLayoutTest.java">
+        <entry file="file://$PROJECT_DIR$/src/fxstudy/work18/FolderTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="64" column="43" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
+            <state relative-caret-position="747">
+              <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#549#555#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,9 +129,10 @@
         <option value="$PROJECT_DIR$/src/fxstudy/work15/GridLayoutPosition.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work15/GridLayoutPositionExam.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work15/GridLayoutTset.java" />
-        <option value="$PROJECT_DIR$/src/fxstudy/work15/GridLayoutTest.java" />
-        <option value="$PROJECT_DIR$/src/fxstudy/work16/LoginFrame.java" />
         <option value="$PROJECT_DIR$/src/fxstudy/work17/BoxLayoutTest.java" />
+        <option value="$PROJECT_DIR$/src/fxstudy/work16/LoginFrame.java" />
+        <option value="$PROJECT_DIR$/src/fxstudy/work15/GridLayoutTest.java" />
+        <option value="$PROJECT_DIR$/src/fxstudy/work18/FolderTest.java" />
       </list>
     </option>
   </component>
@@ -161,8 +152,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="316" />
-    <option name="width" value="1704" />
+    <option name="x" value="-113" />
+    <option name="y" value="3" />
+    <option name="width" value="1532" />
     <option name="height" value="1092" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -193,6 +185,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,24 +204,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fxstudy" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="everyday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="everyday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553811907652" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554070181153" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -257,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BoxLayoutTest">
+  <component name="RunManager" selected="Application.FolderTest">
     <configuration name="BorderLayoutPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fxstudy.work14.BorderLayoutPosition" />
       <module name="everyday" />
@@ -284,12 +270,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fxstudy.work14.Exam" />
+    <configuration name="FolderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fxstudy.work18.FolderTest" />
       <module name="everyday" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fxstudy.work14.*" />
+          <option name="PATTERN" value="fxstudy.work18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,19 +310,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Exam" />
       <item itemvalue="Application.BorderLayoutPosition" />
       <item itemvalue="Application.GridLayoutTest" />
       <item itemvalue="Application.LoginFrame" />
       <item itemvalue="Application.BoxLayoutTest" />
+      <item itemvalue="Application.FolderTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BoxLayoutTest" />
-        <item itemvalue="Application.LoginFrame" />
+        <item itemvalue="Application.FolderTest" />
         <item itemvalue="Application.GridLayoutTest" />
+        <item itemvalue="Application.LoginFrame" />
+        <item itemvalue="Application.BoxLayoutTest" />
         <item itemvalue="Application.BorderLayoutPosition" />
-        <item itemvalue="Application.Exam" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +369,11 @@
       <workItem from="1553557294027" duration="613000" />
       <workItem from="1553614276417" duration="9441000" />
       <workItem from="1553726625728" duration="6004000" />
-      <workItem from="1553810749593" duration="1113000" />
+      <workItem from="1553810749593" duration="1422000" />
+      <workItem from="1553824043910" duration="8000" />
+      <workItem from="1553865417447" duration="4610000" />
+      <workItem from="1553871093436" duration="876000" />
+      <workItem from="1554068598767" duration="1500000" />
     </task>
     <task id="LOCAL-00001" summary="something">
       <created>1552453571134</created>
@@ -518,17 +508,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553732619740</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="BoxLayout布局示例">
+      <created>1553811940251</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1553811940251</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65041000" />
+    <option name="totallyTimeSpent" value="72344000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <frame x="-152" y="0" width="903" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1406629" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22011834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -580,7 +577,8 @@
     <MESSAGE value="BorderLayoutPosition类,基础" />
     <MESSAGE value="局管理器和组件的综合练习" />
     <MESSAGE value="模仿TIM登录界面" />
-    <option name="LAST_COMMIT_MESSAGE" value="模仿TIM登录界面" />
+    <MESSAGE value="BoxLayout布局示例" />
+    <option name="LAST_COMMIT_MESSAGE" value="BoxLayout布局示例" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work1/shape/Rectangle.java">
@@ -697,20 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutExam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work15/GridLayoutPositionExam.java" />
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work8/DateDifferentExam.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -723,13 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2756">
           <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work14/BorderLayoutPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -751,38 +728,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="216" selection-start-line="216" selection-end-line="216" />
-          <folding>
-            <element signature="e#6758#6759#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work15/GridLayoutTest.java">
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutExam.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/fxstudy/work16/LoginFrame.java">
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work14/BorderLayoutPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-480">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fxstudy/work17/BoxLayoutTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="64" column="43" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
+        <state relative-caret-position="60">
+          <caret line="2" column="6" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work13/FlowLayoutPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work15/GridLayoutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work16/LoginFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="75" column="21" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fxstudy/work18/FolderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#549#555#0" expanded="true" />
           </folding>
         </state>
       </provider>
