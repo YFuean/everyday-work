@@ -21,7 +21,7 @@ public class FolderTest {
         for (File f:fs) {
             //获取文件扩展名
             String fileName = f.getName();
-            List<File> list = new ArrayList<File>();
+            List<File> list = new ArrayList<>();
             if (fileName.endsWith(".jpg")||fileName.endsWith(".png")){
                 list.add(f);
                 System.out.println(f);

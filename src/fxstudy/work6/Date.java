@@ -95,13 +95,13 @@ public class Date {
         //15.计算两个日期之间的天数和月数
         LocalDate oneDay = LocalDate.of(2019,Month.OCTOBER,1 );
         Period periodToNextJavaRelease = Period.between(today, oneDay);
-        System.out.println("Months left between today and Java 8 release : "
+        System.out.println("15   Months left between today and Java 8 release : "
                 + periodToNextJavaRelease.getMonths() );
         //16.包含时差信息的日期和时间
         LocalDateTime datetime = LocalDateTime.of(2014, Month.JANUARY, 14, 19, 30);
         ZoneOffset offset = ZoneOffset.of("+05:30");
         OffsetDateTime date = OffsetDateTime.of(datetime, offset);
-        System.out.println("Date and Time with timezone offset in Java : " + date);
+        System.out.println("16   Date and Time with timezone offset in Java : " + date);
         //17.获取当前的时间戳
         Instant timestamp = Instant.now();
         System.out.println("What is value of this instant " + timestamp);
